@@ -4,7 +4,7 @@
 
 ![NeverStopLearning](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY251aGYzcmNscjNoM3Bjem9xenBjNXl6MmxsZTRyNmxoeDd5MWYzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8xusSHsJGepz3UbtX/giphy.gif)
 
-<div style="background-color:#e6f7ff; padding:10px; border-radius:8px; font-family: Georgia, serif;">
+<div style="background-color:#e6f7ff; padding:10px; border-radius:8px;">
   I am Ali Abdurrahman, a wanderer through the world of data.<br><br>
   So, the journey starts from...... <br><br>
   here
