@@ -7,8 +7,8 @@
 >#### I am Ali Abdurrahman, a wanderer through the world of data. So, the journey start from..... here
 
 ##### Connect with me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliabdurrahman) 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliabdurrahman) 
+
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aliabdurrahman81)
 
 ##### Skills
