@@ -1,7 +1,7 @@
 ## Hi there 👋
+![NeverStopLearning](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh2dnVoa2hnenU5NTh1N3ZmMnFqZmNiZnNwMGJqYTdlNGkzMXMxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/en5IMVNb7xGItpM31p/giphy.gif)
 
-<!--
-**aliabdurrahman10/aliabdurrahman10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **aliabdurrahman10/aliabdurrahman10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
