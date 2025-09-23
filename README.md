@@ -7,7 +7,13 @@
 >#### I am Ali Abdurrahman, a wanderer through the world of data. So, the journey start from..... here
 
 ##### Connect with me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliabdurrahman) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aliabdurrahman81)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliabdurrahman) 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aliabdurrahman) 
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/aliabdurrahman81)
+
+##### Skills
+<img src="[https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+
 
 <!-- **aliabdurrahman10/aliabdurrahman10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
