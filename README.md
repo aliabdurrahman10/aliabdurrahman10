@@ -1,8 +1,11 @@
 ![BannerAli](img/Header2.png)
 
-### My Current Spirit Animal :penguin:
+##### My Current Spirit Animal :penguin:
 
 ![NeverStopLearning](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY251aGYzcmNscjNoM3Bjem9xenBjNXl6MmxsZTRyNmxoeDd5MWYzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8xusSHsJGepz3UbtX/giphy.gif)
+
+>#### I am Ali Abdurrahman, a wanderer through the world of data. So, the journey star from..... here
+
 
 <!-- **aliabdurrahman10/aliabdurrahman10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
