@@ -1,5 +1,5 @@
 ## Hi there 👋
-![NeverStopLearning](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh2dnVoa2hnenU5NTh1N3ZmMnFqZmNiZnNwMGJqYTdlNGkzMXMxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/en5IMVNb7xGItpM31p/giphy.gif)
+![NeverStopLearning](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY251aGYzcmNscjNoM3Bjem9xenBjNXl6MmxsZTRyNmxoeDd5MWYzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E8xusSHsJGepz3UbtX/giphy.gif)
 
 <!-- **aliabdurrahman10/aliabdurrahman10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
