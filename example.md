@@ -1,24 +1,18 @@
-# Example headings
 
-## Sample Section
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/aliabdurrahman) 
 
-## This'll be a _Helpful_ Section About the Greek Letter Θ!
-A heading containing characters not allowed in fragments, UTF-8 characters, two consecutive spaces between the first and second words, and formatting.
+# 💻 Tech Stack:
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aliabdurrahman10&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aliabdurrahman10&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdurrahman10&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## This heading is not unique in the file
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-TEXT 1
+---
+[![](https://visitcount.itsvg.in/api?id=aliabdurrahman10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## This heading is not unique in the file
-
-TEXT 2
-
-# Links to the example headings above
-
-Link to the sample section: [Link Text](#sample-section).
-
-Link to the helpful section: [Link Text](#thisll-be-a-helpful-section-about-the-greek-letter-Θ).
-
-Link to the first non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file).
-
-Link to the second non-unique section: [Link Text](#this-heading-is-not-unique-in-the-file-1).
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

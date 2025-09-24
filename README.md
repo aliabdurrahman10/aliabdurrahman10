@@ -63,8 +63,10 @@
 ![VSCODE](    https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 ## My Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdurrahman10&show_icons=true&theme=prussian)
-
+![](https://github-readme-stats.vercel.app/api?username=aliabdurrahman10&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=aliabdurrahman10&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdurrahman10&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
