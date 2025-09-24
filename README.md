@@ -64,4 +64,7 @@
 ![FASTAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## My Github Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aliabdurrahman10&show_icons=true&theme=prussian)]
 
