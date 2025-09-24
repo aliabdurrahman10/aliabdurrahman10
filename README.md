@@ -72,7 +72,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliabdurrahman10&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ***
-<h2 align="left">Just like a computer, you can’t run nonstop. Let’s take a short break.</>
+<h5 align="left">Just like a computer, you can’t run nonstop. Let’s take a short break.</>
 
 ###
 <picture>
